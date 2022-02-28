@@ -1,0 +1,1247 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Of sudden diseases. By Dr. John Pechey of the College of Physicians, London, at his house in Robin-Hood's-Court, the Lower End of Bowlane, near Bazing-Lane, Cheapside</title>
+            <author>Pechey, John, 1655-1716.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1698</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 51 KB of XML-encoded text transcribed from 13 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A90345</idno>
+            <idno type="STC">Wing P1025A</idno>
+            <idno type="STC">ESTC R231928</idno>
+            <idno type="EEBO-CITATION">99900038</idno>
+            <idno type="PROQUEST">99900038</idno>
+            <idno type="VID">133300</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A90345)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 133300)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2504:6)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Of sudden diseases. By Dr. John Pechey of the College of Physicians, London, at his house in Robin-Hood's-Court, the Lower End of Bowlane, near Bazing-Lane, Cheapside</title>
+                  <author>Pechey, John, 1655-1716.</author>
+               </titleStmt>
+               <extent>24 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1698?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from Wing (CD-ROM edition).</note>
+                  <note>Includes index.</note>
+                  <note>Reproduction of original in the Wellcome Institute for the History of Medicine, London.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Medicine --  Formulae, receipts, prescriptions --  Early works to 1800.</term>
+               <term>Medicine --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-09</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-06</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2011-06</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="medical_treatise">
+            <pb facs="tcp:133300:1"/>
+            <pb n="1" facs="tcp:133300:1" rendition="simple:additions"/>
+            <head>OF Sudden Diſeaſes.</head>
+            <byline>By Dr. <hi>JOHN PECHEY</hi> of the <hi>College of Phyſicians, London, </hi> at his Houſe in <hi>Ro<g ref="char:EOLhyphen"/>bin-Hood's-Court,</hi> the Lower End of <hi>Bow<g ref="char:EOLhyphen"/>lane,</hi> near <hi>Bazing-Lane, Cheapſide.</hi>
+            </byline>
+            <p>
+               <seg rend="decorInit">E</seg>VERY one that practiſes in this man<g ref="char:EOLhyphen"/>ner, and would publiſh Medicines with Reputation, ought, in the firſt place, to give an Account of himſelf: Be<g ref="char:EOLhyphen"/>cauſe many, now-a-days, practiſe Phy<g ref="char:EOLhyphen"/>ſick, and publiſh Medicines, that were never inſtructed in the Art of Phyſick; and ſo impoſe on the Publick, by profeſſing an Art they don't underſtand. I ſhall therefore preface the following Undertaking with a Teſtimonial I received from the <hi>College of Phyſicians</hi> many Years ago.</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="testimonial">
+                        <p>KNOW all Men, That the Preſident of the College of <hi>Phyſicians,</hi> with the Conſent of the Fellows of the ſame, has, by Authority from King and Parliament, ex<g ref="char:EOLhyphen"/>amin'd, and Approved of, and Elected into the College, <hi>J. PECHEY</hi> Maſter of Arts in the Univerſity of <hi>Ox<g ref="char:EOLhyphen"/>ford,</hi> a Man of Probity and Skill; and we have granted him full Power and Authority to exerciſe the Science and Art of Phyſick, according to the Laws publiſh'd to this Purpoſe. And moreover, we have granted him the Uſe and Benefit of all the Profits, Liberties, and Privileges which
+<pb n="2" facs="tcp:133300:2"/> have been already, or may be hereafter granted by Au<g ref="char:EOLhyphen"/>thority aforeſaid.</p>
+                        <closer>
+                           <dateline>In Witneſs whereof, we have Seal'd theſe Preſents with our Common Seal, at our <hi>College</hi> in <hi>Lon<g ref="char:EOLhyphen"/>don,</hi> 
+                              <date>the 22d of <hi>December,</hi> in the Year 1684. and in the Thirty-ſixth Year of King <hi>Charles II</hi>d.</date>
+                           </dateline>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>Having often conſider'd that there are ſeveral Diſ<g ref="char:EOLhyphen"/>eaſes ſo ſurpriſing, and withal ſo very violent, that the Patient is often dead, or paſt all Hopes of Recovery, before a Phyſician, in many Places, can be called or ad<g ref="char:EOLhyphen"/>viſed with: <hi>And that in this Great and Populous City,</hi> very few Practitioners are willing to do any thing for the Sick in the Night; and that no Phyſician has hitherto profeſſedly undertaken to diſpenſe Medicines for the Sick in the Night, nor can without good Help; tho' acute and violent Diſeaſes happen as well in the Night as Day, <hi>and ſome of them oftner in the Night than Day.</hi> So that many People ſeiz'd with ſudden and violent Diſeaſes <hi>in the Night,</hi> are at a loſs, and know not where to apply themſelves for Relief: I have employed my ſelf ſeveral Years to find out proper Remedies for ſud<g ref="char:EOLhyphen"/>den and violent Diſeaſes. <hi>And after Thirty Years Pra<g ref="char:EOLhyphen"/>ctice and Experience,</hi> the following Medicines are the beſt and moſt effectual I know, for the Diſeaſes hereafter mentioned.</p>
+            <p>And that the Sick may have Relief <hi>in the Night</hi> as well as Day, I have undertaken to diſpenſe the follow<g ref="char:EOLhyphen"/>ing Medicines at any time of the <hi>Night</hi> as well as Day, for ſudden, violent, and dangerous Diſeaſes: And I believe they may be of General Uſe, and may ſuit all Conditions of Men; all, by the Frailty of Nature, ly<g ref="char:EOLhyphen"/>ing open to one or other of theſe ſudden Incurſions. And ſuch as live at a Diſtance from the City, or in the Country, ought to keep the Medicines by them that are proper for their Diſeaſes, eſpecially if they have been often ſeiz'd with ſudden and violent Diſeaſes. For they will find no ſmall Comfort and Security, in having <hi>an Approved Remedy ready at hand in time of need.</hi>
+            </p>
+            <div type="part">
+               <pb n="3" facs="tcp:133300:2"/>
+               <head>The <hi>Pouder</hi> to prevent <hi>Miſcarriage.</hi>
+               </head>
+               <p>THIS is a noble Remedy; it ſtrengthens and com<g ref="char:EOLhyphen"/>forts the Stomach, expels Wind, and comforts the Child very much; and ſtrengthens a weak Womb, and the Ligaments of it, and prevents the Courſes; and is a powerful Remedy for Diſeaſes of the Womb, com<g ref="char:EOLhyphen"/>ing from extreme Weakneſs, Cold, and Moiſture, and Laxity or Looſeneſs of the Womb, or from a Defluxi<g ref="char:EOLhyphen"/>on of Humours upon the Womb. A Paper of it muſt be taken daily, Morning and Evening, in a Glaſs of Cla<g ref="char:EOLhyphen"/>ret. Price 6 <hi>d.</hi> a Paper.</p>
+            </div>
+            <div type="part">
+               <head>
+                  <hi>Drops</hi> to haſten <hi>Delivery.</hi>
+               </head>
+               <p>THESE Drops wonderfully haſten Delivery, when the Pains ceaſe, or are too weak, and when the Womb does not ſufficiently help itſelf in promoting the Birth; and in this Caſe they excell moſt other Remedies, and are, as it were, a divine Help: They are alſo good for Vapours and Mother-Fits. Twenty of theſe Drops may be taken at any time, in any Liquor the Woman drinks, and they muſt be repeated upon occaſion: but you muſt ſhake them every time you uſe them. The Price of a Viol of theſe Drops is 1 <hi>s.</hi> 6 <hi>d.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <head>The <hi>Child-bed Julep.</hi>
+               </head>
+               <p>THIS Julep is an approved and bleſſed Remedy; and if it be taken preſently after Delivery, it pre<g ref="char:EOLhyphen"/>vents a great many Diſeaſes that afflict Women in Child-bed, and kill many, as Fevers, Convulſions, In<g ref="char:EOLhyphen"/>flammations; and cures Bruiſes of the Womb, and prevents the Obſtruction of the Child-bed Cleanfings. It cures After-pains, and all manner of Pains in the Bowels and Belly; and is of a Balſamick and Healing Nature, and a divine Help for Women after difficult and hard Labour, as any one will plainly find, that makes uſe of it preſently after Delivery. The Viol contains 4 Ounces, which muſt be taken preſently after Delivery. Price 1 <hi>s.</hi> 6 <hi>d.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <pb n="4" facs="tcp:133300:3"/>
+               <head>The <hi>Electuary</hi> and <hi>Hyſterick Cordial</hi> for a <hi>Suppreſſion of the Child-bed Cleanſings.</hi>
+               </head>
+               <p>THIS Electuary and Hyſterick Cordial, if they are taken ſoon after the Suppreſſion of the Child-bed Cleanſings, generally take it off, and prevent many ill Accidents: For the Suppreſſion of theſe, is one of the worſt and moſt dangerous Symptoms that can befal a Woman after Delivery, eſpecially if they be wholly and ſuddenly ſtopt the firſt three or four Days.</p>
+               <p>The Woman muſt take the Quancity of a large Nutmeg of the Electuary every 3d Hour, till the Suppreſſion is re<g ref="char:EOLhyphen"/>mov'd; drinking after every Doſe of the Electuary 4 Spoonfuls of the Hyſterick Cordial; and a Galbanum Plaiſter ought to be applied to the Navel. The Pot of the Electuary contains 3 Ounces, Price 2 <hi>s.</hi> the Cordial 13 Ounces, Price 2 <hi>s.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <head>The <hi>Electuary</hi> and <hi>Julep</hi> for a violent <hi>Flux of the Courſes.</hi>
+               </head>
+               <p>AN immoderate Flux of the Courſes happens to Wo<g ref="char:EOLhyphen"/>men either in Child-bed, or at other Times: As to the firſt, that afflicts Women moſt on the firſt Days af<g ref="char:EOLhyphen"/>ter difficult Labour, and is accompanied with a long Train of Hyſterick Symptoms; and as it happens only on the firſt Days, ſo uſually it does not laſt long; for if a thickning Diet be order'd, it ſoon abates. The following Drink may be alſo uſed:</p>
+               <p>Take of Plantain-water and Red Wine, each 1 Pint; boil them till a third Part is conſumed; ſweeten it with a ſufficient Quantity of White Sugar; let the Woman take half a Pint of it twice or thrice a Day.</p>
+               <p>But as to the Flux, which happens out of Child-bed, tho' it befals Women at any time, yet it moſt commonly comes a little before the Time it leaves them, namely, when they are about Forty-five Years of Age, if they have them young; and about Fifty, if 'twere late before they began to have them; and by reaſon of the great Quantity of Blood which is evacuated, they are almoſt continually afflicted with Vapours and much weaken'd.</p>
+               <p>In order to the Cure, you muſt bleed in the Arm, and 8 Ounces of Blood muſt be taken away; and the next Morning my cooling Purging Potion muſt be
+<pb n="5" facs="tcp:133300:3"/> given, which muſt be repeated twice, three Days be<g ref="char:EOLhyphen"/>twixt each Purge; and every Night going to Bed the Woman muſt take 5 Spoonfuls of my Cordial for the Bloody Flux, thro' the whole Courſe of the Diſeaſe: And after ſhe has been purged thrice, ſhe muſt take the Quantity of a large Nutmeg of my Electuary, for the immoderate Flux of the Courſes, in the Morning, and at 5 in the Afternoon daily, drinking preſently after each Doſe of the Electuary 6 Spoonfuls of my Julep, for an immoderate Flux of the Courſes. The Pot con<g ref="char:EOLhyphen"/>tains about 3 Ounces of the Electuary, Price 2 <hi>s.</hi> 6 <hi>d.</hi> The Viol of the Julep contains 8 Ounces, Price 1 <hi>s.</hi> 6 <hi>d.</hi>
+               </p>
+               <p>
+                  <hi>This Method and theſe Medicines alſo cure the Whites in Women.</hi>
+               </p>
+               <p>
+                  <hi>Sometimes the Courſes come with violent Pain; ſome<g ref="char:EOLhyphen"/>times they come before their due time, and ſtay longer than they ſhould, and ſometimes break out from Places not natu<g ref="char:EOLhyphen"/>ral. For each of theſe Diſeaſes I have a proper Remedy.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <head>An excellent <hi>Cordial Mixture</hi> for <hi>Weakly Women,</hi> near the time of <hi>Delivery.</hi>
+               </head>
+               <p>THIS Reſtorative Cordial Mixture wonderfully ſtrengthens the Mother and Child; it quickens and revives the Spirits, is very good for the Stomach, and expels Wind, and cheers the Heart, and comforts the Womb, and makes the Mother and Child ſo vigorous and lively, that if a Spoonful of it be taken twice a Day a Month before lying in, it procures an happy De<g ref="char:EOLhyphen"/>livery, and renders the Child brisk and luſty. The Bottle contains 8 Ounces, Price 3 <hi>s.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <head>The <hi>Cordial Drops.</hi>
+               </head>
+               <p>THESE Drops are excellent for Mother-Fits, Fain<g ref="char:EOLhyphen"/>tings, Swoonings, and Sinking of the Spirits, for an Apoplexy, and Trembling and Palpitation of the Heart, Giddineſs, Falling-Sickneſs, Wind, Diſorders of the Brain and Womb; they quicken the Senſes, revive the Spirits, and are of great Uſe to prevent Infection in ſickly Seaſons; <hi>and they are of ſuch great and wonderful Vertue, that People ſubject to theſe ſudden and dangerous
+<pb n="6" facs="tcp:133300:4"/> Diſeaſes, ought to have them always by them.</hi> The Doſe is from 20 to 30 Drops, according to the Age and Strength, in a Glaſs of Canary or White-wine, or in a Diſh of Tea or the like. They may be given in the Fit, or in the Morning Faſting, or at Night going to Bed. Price 1 <hi>s.</hi> the Ounce.</p>
+            </div>
+            <div type="part">
+               <head>The <hi>Pouder</hi> for <hi>Childrens Convulſions.</hi>
+               </head>
+               <p>COnvulſions in Children are very frequent; and they are chiefly ſubject to them in the firſt Months, and at the Time they breed their Teeth: But they alſo happen at other times, and proceed from other Cauſes, in ſuch as are diſpoſed to them. This Pou<g ref="char:EOLhyphen"/>der is an approved Remedy for theſe Convulſions, a Paper of it being given the Child Morning and Evening, till the Fits go off, eſpecially two or three Days before every New and Full Moon, in a Spoonful of Black Cher<g ref="char:EOLhyphen"/>ry-water, or the like; but if the Child be in the firſt Months, or very Young, half a Paper is a ſuffi<g ref="char:EOLhyphen"/>cient Doſe. The Price of 12 Papers 3 <hi>s.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <head>An Excellent and Approved <hi>Oyl</hi> for <hi>Childrens Gripes.</hi>
+               </head>
+               <p>GRipes frequently happen to Childre<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> either with a Looſeneſs or without it; and if they continue long, they weaken Children, and occaſion Convulſions. Anoint the Child's Navel and Pit of the Stomach with this Oyl a little warm'd; and you will find it to be an excellent Remedy. Price 1 <hi>s.</hi> the Dram.</p>
+            </div>
+            <div type="part">
+               <head>My Excellent <hi>Water</hi> for the <hi>Bloody-Flux, Hyſteric Colick, Violent Looſeneſſes, Griping of the Guts, Stone in the Kidneys,</hi> and the <hi>Gout</hi> when ſtriken in.</head>
+               <p>THis Water is an admirable Remedy for the Bloody-Flux, the Griping of the Guts, and Pains of the Stomach, and for ſharp and corroding Humours in the Bowels, for vomiting and ſpitting of Blood, and for violent Looſeneſſes, and for an immoderate Flux of the Courſes, and an excellent Remedy to prevent Miſcarriage, when any violent Pain or Perturbation ariſes in a a Woman with Child. It chears the Heart,
+<pb n="7" facs="tcp:133300:4"/> and revives the languiſhing Spirits, and ſtrengthens and comforts the Womb. It is good in the Small-pox and Meaſles, when the Sick is reſtleſs and Light-head<g ref="char:EOLhyphen"/>ed, and when the Fever is high, or when the Small<g ref="char:EOLhyphen"/>pox don't riſe well. When the Gout is ſtriken in upon the Stomach or Bowels, and threatens ſudden Death, this Water is a ſovereign Remedy, and relieves the Sick to Admiration. For the Stone in the Kid<g ref="char:EOLhyphen"/>neys, aſſoon as one any is ſeiz'd with a Fit of it, ſetting aſide all other Remedies, let him preſently drink a Gallon of Poſſet-drink, wherein two Ounces of the Roots of Marſh-Mallows have been boil'd, and let the following Glyſter be injected: Take of the Roots of Marſhmallows and Lillies, each one Ounce; of the Leaves of Mallows, and Pellitory of the Wall, and of the Flowers of Camomil, each one Handful; of Flax and Fennigreck Seeds, each half an Ounce, boil them in a ſufficient Quantity of Water to a Pint and an half, diſ<g ref="char:EOLhyphen"/>ſolve in the ſtrained Liquor brown Sugar and Syrup of Marſh-Mallows, each two Ounces; mingle them and make a Glyſter: Aſſoon as he had render'd all the Poſſet-drink by Vomiting, and rejected the Glyſter, let him take half the Bottle of Water, and keep him<g ref="char:EOLhyphen"/>ſelf as quiet as poſſible in Bed. The Water muſt be taken in the ſame Quantity, when the Gout is ſtriken in upon the Bowels or Stomach, and the Patient muſt keep himſelf Quiet in Bed. For the Gripes, a Man or Woman may take 5 or 6 Spoonfuls; a Child, accord<g ref="char:EOLhyphen"/>ing to the Age and Strength, 1, 2, or 3 Spoonfuls; for a violent Looſeneſs or Bloody-Flux, 2 Spoonfuls muſt be taken after every Stool, and a Man or Woman muſt take 6 Spoonfuls going to Bed, every Night as long as the Flux continues. For an immoderate Flux of the Courſes or Whites, 5 Spoonfuls muſt be taken every Night, or every other Night, according to the Violence of the Diſeaſe, for a Week. To prevent Miſcarriage, the Woman muſt take 5 or 6 Spoonfuls, and keep her ſelf Quiet in Bed. For the Small-pox and Meaſles, a grown Perſon muſt take 5 or 6 Spoon<g ref="char:EOLhyphen"/>fuls, a Child, 1, 2, or 3 Spoonfuls, according to the
+<pb n="8" facs="tcp:133300:5"/> Age. The Bottle contains Eight Ounces. Price 2 <hi>d. 6 d.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <head>My <hi>Water</hi> to ſtop <hi>Bleeding at Noſe.</hi>
+               </head>
+               <p>THis Water ſtops Bleeding at Noſe, Lint in the form of Tent being dipp'd in it, and put up the Noſtril from whence the Blood flows. And if you apply a Linnen Rag doubled, being firſt dipp'd in this Water. to a Wound, it will preſently ſtop the Blood; but you muſt keep your Fingers upon the Rag about half an Hour. And if an Artery be cut it ſtops the Blood, being uſed as above directed, and kept on a<g ref="char:EOLhyphen"/>while with your Hand. This Water having been uſed with great Succeſs upon ſeveral Occaſions, may well deſerve a Place here; and whoever tries it, will find it an Excellent Remedy.</p>
+            </div>
+            <div type="part">
+               <head>My <hi>Julep</hi> to ſtop <hi>Violent Vomiting.</hi>
+               </head>
+               <p>THis Julep for Vomiting is the moſt effectual Re<g ref="char:EOLhyphen"/>medy that was ever found out, for it ſcarce ever fails to ſtop Vomiting in a ſhort time, when all other Medicines will not do it. It muſt be taken all at once, and the Sick muſt keep his Bed, or lie down for ſome Hours. Price <hi>I s. 6 d.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <head>My <hi>Vomiting Powder.</hi>
+               </head>
+               <p>THis is the beſt of all Vomits for general Uſe, for it works with much Safety and Gentleneſs; where<g ref="char:EOLhyphen"/>as many other Vomits differ very little from Poiſons. It cures the Headach and Giddineſs of the Head, it cleanſes a foul Stomach, cures Surfeits, Loathing, and Vomiting, and cauſes a good Appetite and Digeſtion; it is good for the Jaundice, Wind in the Stomach, Bloody-Flux, and Looſeneſs; and powerfully opens Obſtructions of the Lungs, and cures Wheeſings, Short<g ref="char:EOLhyphen"/>neſs of Breath, and the Ptiſick: And in theſe Caſes this Vomit once taken, will do more good than ten Purges. A weak Woman may take half a Paper, a ſtrong Man or Woman may take the whole Paper; Children may take a third part of a Paper, more or leſs, according
+<pb n="9" facs="tcp:133300:5"/> to their Age; a Child of ſeven Years of Age may take a third Part. It muſt be taken in a Spoonful of Poſ<g ref="char:EOLhyphen"/>ſet-drink or Water-gruel; and large Draughts of Car<g ref="char:EOLhyphen"/>duus-Tea muſt be taken after every time you Vomit. The beſt time of taking it is about Seven in the Even<g ref="char:EOLhyphen"/>ing, and when it has done working go to Bed, and take a little Burnt-Claret, or Mace-Ale, or the like: But it may be taken at any time of the Day or Night, when there is occaſion, and, as need requires, you may repeat the uſe of it. The Price of this Vomit is I <hi>s.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <head>The <hi>Royal Antidote.</hi>
+               </head>
+               <p>IT powerfully reſiſts Poiſon, the Plague, and Small<g ref="char:EOLhyphen"/>pox, and cures the Biting of Serpents and other venomous Beaſts, and the Biting of a mad Dog. Is good for the Stomach, Head, Brain, and Nerves. It chears the Heart; is good for Melancholy, Sadneſs, and Dejection of Mind; excellent for Hyſteric Wo<g ref="char:EOLhyphen"/>men; and gives a new Ferment to the Blood and Juices, moving them gently and keeping them in a due Mixture, and frees them from Putrefaction, and ſo ſtrengthens the Spirits, that they are able to reſiſt Malignity, and to caſt it forth through the Pores of the Skin; and it is a powerful Remedy for Continual and Malignant Fevers, when other Medicines are ineffectual. Two Spoonfuls may be taken at a time; but in Fevers give 3 Spoonfuls every eighth Hour. The Viol contains 4 Ounces. Price 2 <hi>s.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <head>My <hi>Sweating Bolus.</hi>
+               </head>
+               <p>THere is ſcarce any Sweating Medicine to be com<g ref="char:EOLhyphen"/>pared with this Bolus: It is very good againſt any Malignity, and a powerful Remedy in Continual Fevers, and ſuch as are of an ill ſort; and is alſo very cordial and good for the Stomach; and may be uſed upon all Occaſions where Sweating is neceſſary: Eſpe<g ref="char:EOLhyphen"/>cially when the Gout is ſtriken in upon the Bowels, and cauſes a Looſeneſs and Gripes. Price I <hi>s,</hi>
+               </p>
+            </div>
+            <div type="part">
+               <pb n="10" facs="tcp:133300:6"/>
+               <head>My <hi>Family Balſam.</hi>
+               </head>
+               <p>THis Balſam is excellent for Cuts and Wounds; is good for old running Sores, old Aches and Strains, wither'd Limbs, Cramps, Convulſions, Tremblings, Numbneſs, and Stitches in the Sides; ſoftens the Hard<g ref="char:EOLhyphen"/>neſs of the Liver and Spleen: Being well bathed upon Sinews ſhrunk, it comforts them, and cauſes them to be extended to their due length; and is excellent for the cure of all manner of outward Swellings: It ſtreng<g ref="char:EOLhyphen"/>thens weak Limbs, and is good for Lameneſs and the Palſy, and comforts the Joints and Nerves; and is of ſuch great Uſe that it ought to be kept in all Families. Anoint the Part affected with it Morning and Evening before a gentle Fire till the Patient is well, and keep the Part affected warm. Price <hi>6 d.</hi> the Ounce.</p>
+            </div>
+            <div type="part">
+               <head>My <hi>Bliſtering Plaiſter.</hi>
+               </head>
+               <p>A Mongſt all the Bliſtering Plaiſters that have been hitherto invented, this is certainly the beſt, for it infallibly raiſes a Bliſter in the ſpace of 10 or 12 Hours; and if it be carefully taken off, it brings off the Skin with it, ſo that there's no need of cutting the Bliſter, as is commonly done when other Bliſtering Plaiſters are uſed. Price <hi>6 d.</hi> the Ounce.</p>
+               <p>
+                  <hi>I will here alſo add my Virgins Powder, and 4 or 5 excellent Medicines more that are often wanted.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <head>My <hi>Virgins Powder.</hi>
+               </head>
+               <p>THis Powder opens Womens Obſtructions, and cures the Green-ſickneſs, as many Maids in <hi>London</hi> know very well, who, after they have laboured a long while under this Diſeaſe, and have uſed many Medi<g ref="char:EOLhyphen"/>cines without Benefit, have been perfectly cured by this Powder; and it reſtores to pale Virgins a freſh and pleaſant Countenance. A Paper of it muſt be ta<g ref="char:EOLhyphen"/>ken daily every Night going to Bed, in a Spoonful of Syrup of Gilliflowers, or the like, till they are quite well. The Price of 12 Papers' <hi>3 s.</hi> But before they begin taking of this Powder, they muſt be blooded in the Arm, and purged thrice with my Bitter Tincture.</p>
+            </div>
+            <div type="part">
+               <pb n="11" facs="tcp:133300:6"/>
+               <head>My <hi>Electuary</hi> for <hi>Agues.</hi>
+               </head>
+               <p>THIS Electuary certainly cures Agues of all ſorts, in the ſpace of a few Days, being taken preſently after the Fit is off, namely, take the quantity of a large Nutmeg every 4 Hours; and 8 Days after tak<g ref="char:EOLhyphen"/>ing the laſt Doſe, take another Pot of the Electuary in the ſame manner, tho' the Ague be gone, to prevent the Return. The Pot contains 3 Ounces, Price 2 <hi>s.</hi> 6 <hi>d.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <head>My <hi>Pectoral Syrup</hi> for <hi>Conſumptions.</hi>
+               </head>
+               <p>THIS Syrup is an effectual and excellent Remedy for Conſumptive Coughs, Colds, Wheezings, Ptiſick, Shortneſs of Breath, Stoppages of the Breaſt and Lungs, and Soreneſs of the Breaſt and Lungs. 'Tis of a Bal<g ref="char:EOLhyphen"/>ſamick and Healing Nature, diſcharges the Matter ea<g ref="char:EOLhyphen"/>ſily from the Lungs, cures Rheums and Soreneſs of the Throat: And whereas moſt other Medicines that are uſed for Coughs, take away the Stomach; this, on the contrary, ſtrengthens the Stomach, and creates an Appetite. Half a Spoonful of it may be taken often in a Day. Price of a Pint of this Syrup is <hi>5 s.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <head>My <hi>Julep</hi> for <hi>Vapours.</hi>
+               </head>
+               <p>THIS Julep may be well rank'd amongſt the moſt ex<g ref="char:EOLhyphen"/>cellent Medicines for Vapours; for it preſently ſuppreſſes them, by quieting the Spirits, and reducing them to Order. It has been often try'd and well ap<g ref="char:EOLhyphen"/>prov'd of; and may be truly ſaid to be one of the beſt Medicines for the Hurry and Confuſion of the Spirits. The Doſe is from 4 Spoonfuls to 6, as often as there is Occaſion. The Viol contains a Pint, Price <hi>2 s. 6 d.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <head>
+                  <hi>Ingredients</hi> for <hi>Purging-Beer</hi> for Chilren.</head>
+               <p>PUT theſe Ingredients into a Quart Bottle with Ale and Small Beer, each a Pint; ſhake them well to<g ref="char:EOLhyphen"/>gether, and let them ſtand all Night; the next Day let the Child drink of it for its ordinary Drink; and when half is drank, fill up the Bottle again, and let the Child drink of it as before, till it has taken all. It purges
+<pb n="12" facs="tcp:133300:7"/> gently, and ſtrengthens the Stomach and Bowels; and is good for the Worms, and is a very proper Purge for Children in moſt Caſes; and certainly cures Childrens Hectick Fevers. Price 1 <hi>s.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <head>My <hi>Purging Pouder.</hi>
+               </head>
+               <p>THIS Pouder is ſo very ſafe and eaſie in its Opera<g ref="char:EOLhyphen"/>tion, and of ſuch general Uſe, that it is a proper Purge for Men, Women, and Children, and may be uſed in all Diſeaſes where Purging is neceſſary; and is really an exceeding good Purge, and of a ſmall Price. A ſtrong Man or Woman may take the whole Paper; tender Women and weakly Men may take 3 Quarters of a Paper; Children betwixt 7 and 14 may take half a Paper; for Children under 7, a Paper may ſerve for 4 Purges: It may be taken with Sugar, or in the Pap of a roaſted Apple, or with a little Syrup, or with a little Beer. Price 6 <hi>d.</hi> the Paper.</p>
+            </div>
+            <div type="part">
+               <p>
+                  <hi>And now, that this Undertaking may be more generally uſeful, I will add, in the following</hi> Index <hi>ſome other choice Medicines that are often wanted.</hi>
+               </p>
+               <p>And moreover, any ſick Perſon that comes to my Houſe, ſhall have a faithful Account of his or her Diſ<g ref="char:EOLhyphen"/>eaſe, and the beſt Advice I can give them: But if they expect to receive any Benefit by Advice or Medicines, they muſt come in time, before their Diſeaſes are in<g ref="char:EOLhyphen"/>curable. <hi>And here I muſt inform the Reader, that I have learnt, by Time and Experience, certain Rules for Living, and for Diet, Exerciſe and Reſt, that give great<g ref="char:EOLhyphen"/>er and more laſting Relief in the Gout and Stone, and ſome other Diſeaſes, than any Medicine whatever,</hi> (ex<g ref="char:EOLhyphen"/>cept in violent Fits of the Stone, and when the Gout is ſtriken in upon the Bowels or Stomach;) and are the beſt means to preſerve Nature to extream old Age, and contribute much alſo to the Cure of Conſumptions, Convulſions, Colick, Ptiſick, King's Evil, Scurvy, Rheu<g ref="char:EOLhyphen"/>matiſm, Weakneſs in Childrens Limbs, Dropſy, <hi>Vene<g ref="char:EOLhyphen"/>real Diſeaſes,</hi> and Melancholy next to Madneſs.</p>
+               <pb n="13" facs="tcp:133300:7"/>
+               <p> And here I will ſay, by the by, that the Gout and Stone, generally ſpeaking, are corporal Puniſhments, inflicted for the Riots, and Intemperance, or Sloth, of either the Father, Progenitor, or preſent Poſſeſſor, and muſt be expiated by hard Fare and Day-Labour, how irkſome ſoever this may ſeem to the Native Luxury and Sloth of Gouty Libertines; and if they will not ſubmit to this Diſcipline, but tamely yield to the <hi>En<g ref="char:EOLhyphen"/>chantments of Sloth and ill Cuſtoms,</hi> they muſt expect a long Train of Miſeries in a ſhort Life, and will en<g ref="char:EOLhyphen"/>tail their Diſeaſes on their Progeny; but at length they will make way for an infallible Cure: For Luxury and Sloth, as they enfeeble the Body, ſo they waſte the E<g ref="char:EOLhyphen"/>ſtate too, the Nurſe of theſe Diſeaſes, and of Hypo<g ref="char:EOLhyphen"/>condriack Melancholy, their Foſter-Brother: Then hum<g ref="char:EOLhyphen"/>ble Fortune enforces Labour, and diſpenſes only plain wholſome Food; theſe purifie the Blood, reſtore and invigorate Nature, and mend the Breed, and, in pro<g ref="char:EOLhyphen"/>ceſs of Time, ſuceeding Generations are as ſound, toroſe, and brawny, as the natural Frame of theſe Gou<g ref="char:EOLhyphen"/>ty Men was at firſt: And I am inclin'd to believe this Revolution is perform'd in a ſtated Number of Years. However, 'tis as certain as that the Sun and Moon, and ſome other Heavenly Bodies, will revolve in their cir<g ref="char:EOLhyphen"/>cular Courſes, tho' 'tis not ſo much heeded. As to my ſelf, the Gout and Stone, the beſt, tho' cruel Refor<g ref="char:EOLhyphen"/>mers, have tether'd me for many Years to a ſevere, ſolitary, but ſucceſsful Courſe of Life. I can now no more recreate my ſelf with good Company abroad, nor drink ſo much Wine as is counted neceſſary for moderate Refreſhment; but beguile the long, tedious, Winter Evenings, when I have no Buſineſs, with Con<g ref="char:EOLhyphen"/>templation, and a few good Books. For tho' I am now of Thirty Years ſtanding in this School of Affliction, (having had the Gout <hi>ex traduce,</hi> and the Stone by drink<g ref="char:EOLhyphen"/>ing Wine and ſtrong Liquors in the Morning of Life, and by the Proximity of theſe Diſeaſes) yet, God be thanked, I have not one Knotted Joint, and but ſel<g ref="char:EOLhyphen"/>dom a Bloody Urine. And here I can affirm upon cer<g ref="char:EOLhyphen"/>tain Knowledge, that the leſs Fleſh a Man eats, and the
+<pb n="14" facs="tcp:133300:8"/> leſs he drinks of fermented Liquors, and the more Ex<g ref="char:EOLhyphen"/>erciſe he uſes, if the Stone be not too big to paſs, the ſeldomer he ſhall be ſeiz'd with either Gout or Stone.</p>
+               <p>And as for Wine, Beer, and Ale, the more they re<g ref="char:EOLhyphen"/>cede from the Nature of Water, the worſe and more unwholſome they are for ordinary Drink. Water was the common Drink both for Man and Beaſt in the firſt Age of the World, from the Creation to the Flood, for 1600 Years, when the Lives of Men were prolong'd to near 1000 Years; but after the Uſe of Wine, they were contracted to near a Tenth Part. The <hi>Romans,</hi> for the Space of 440 Years, drank nothing but Water, and now the ordinary People in <hi>Italy</hi> drink nothing elſe, and the rich Citizens there are much delighted with it; and in <hi>France</hi> 'tis counted a foul Crime for Virgins to drink any thing but Water; and it were well if it were more in uſe in <hi>England</hi> among the young<g ref="char:EOLhyphen"/>er ſort. And I muſt tell Young Men and Wo<g ref="char:EOLhyphen"/>men of Gouty Parentage, how brisk and taper ſoever they may look in the Bloom of Life, if they don't be<g ref="char:EOLhyphen"/>ſtir themſelves daily, and drink ſome Water every Day, and keep to a low Diet, they muſt expect the Gout and Stone too, before they come to be Old; and will ſoon, if Care be not taken, become unweildy and unable to ſtir; for they have luxuriant Bodies: And if they would lay a good Foundation for Health and long Life, they ſhould never drink any vinous Liquor, but for real Weakneſs and real Sickneſs, and then only in the manner of Phyſick. And here I will ſay, that if drinking ſome Water every Day, and living chiefly on Herbs and Roots, Tea, and Small Beer, would have kill'd an Old Gouty Man, I had been laid in the ſilent Grave ſome Years ago.</p>
+               <p>But I would not be ſo underſtood, as that I would adviſe our dear <hi>Aethiop</hi> ill Cuſtom ſhould be repudiat<g ref="char:EOLhyphen"/>ed all of a ſudden, or that I would perſuade Old Men that have weakened their Bodies by drinking much Wine, to leave it off: This would be a great and dan<g ref="char:EOLhyphen"/>gerous Error on the other Hand; theſe unhappy Old Men muſt uſe the beſt Means to keep the Gout from
+<pb n="15" facs="tcp:133300:8"/> the principal Parts; for if it ſtrike in, and can't be ſoon driven out again, 'tis as mortal as the Plague: They muſt therefore ſtrictly obſerve the following Rules.
+<list>
+                     <item>1. The Mind muſt be kept as quiet as is poſſible; for when the Gout has taken deep Root, that is as much affected as the Body; Cares and Fears dog them con<g ref="char:EOLhyphen"/>tinually; and Melancholy, that naturally attends mo<g ref="char:EOLhyphen"/>roſe Age, is increas'd by the Gout; and in the Fits, and upon a Surprize, their Eye-balls rowl, they look wild, and are ſubject to violent Paſſion, which plain<g ref="char:EOLhyphen"/>ly ſhews, that then the rational Faculties are crip<g ref="char:EOLhyphen"/>pled too: For we ſee tender Women, Children, and Men of a weak Oeconomy Mind, are very paſſionate, and ready to fire upon ſlight Occaſions. But if you except this Impetuoſity of Mind, few Gouty Men beſides my ſelf are Fools; for they have the great<g ref="char:EOLhyphen"/>eſt Provokements to Thinking of any Men, and have naturally ſtrong Bodies and ſound Minds; Generals, Admirals, great Stateſmen, and Scholars are of their Fraternity; they ought therefore to maintain the Honour of their Rank by Patience and a manly Suf<g ref="char:EOLhyphen"/>ferance; and tho' in the Fits they are full of Fears and Thoughts, and of a preplex'd Underſtanding, they ſhould, for their own Comfort, conſider, that a Man without Fear is a Monſter, and a Man without Thought is a Fool, and that in a Crowd of Thoughts they ſometimes meet with a very lucky one, which yields great Satisfaction, and in ſome ſort compen<g ref="char:EOLhyphen"/>ſates for the labour of the Brain, and for their being joſtled in a Crowd.</item>
+                     <item>II. They muſt avoid high Feeding and hard Drinking, and Venery, upon Pain of Death. I treat of Nature, that's my Province; and it would be as great a Crime in me to conceal any Violence offer'd to her, as it would be for a Judge to ſtifle plain Evidence of a Rape: But when there is a great Dejection of the Spirits, and a general Languor thro' the whole Bo<g ref="char:EOLhyphen"/>dy, the Converſation of Women, rightly under<g ref="char:EOLhyphen"/>ſtood, is a greater Cordial than can be found in the
+<pb n="16" facs="tcp:133300:9"/> vegetable Kingdom of Herbs, or than the celebrated Elixirs of Chymiſts, or their Potable Gold.</item>
+                     <item>III. To fortifie the principal Parts, and to prevent the ſtriking in of the Gout, they muſt take often of my excellent Electuary for the Gout, eſpecially in Win<g ref="char:EOLhyphen"/>ter.</item>
+                     <item>IV. They muſt go to Bed early, drink Green Tea in the Morning, eat moderately what they like at Din<g ref="char:EOLhyphen"/>ner, except Salted, Smoak'd, Bak'd, or Spic'd Meats, and drink a Glaſs or two of ſome ſtrong Wine; the Supper, if any, muſt be ſmall.</item>
+                     <item>V. The firſt Days, in the Fits, they muſt abſtain from Fleſh, and keep their Beds; and if the Pain be in<g ref="char:EOLhyphen"/>tolerable, they may take 6 Spoonfuls of my Water for the Gout, at Bed-time: But they muſt bear as much Pain as is poſſible; for the Pain in the Limbs ſecures the Life, tho' it be a bitter Remedy.</item>
+                     <item>VI. When the Gout is fallen in upon the Stomach, and cauſes racking Pains, they muſt preſently take my Water for the Gout, to drive it out again, as above directed.</item>
+                     <item>VII. When the Gout is ſtriken in upon the Bowels, and cauſes a Looſeneſs and Gripes, they muſt take my Sweating Bolus two or three Days, Morning and Even<g ref="char:EOLhyphen"/>ing, to provoke Sweat for 2 Hours at a time.</item>
+                     <item>VIII. When the Gout in ſtriken in upon the Lungs, Bleeding muſt be uſed and repeated as often as there is Occaſion; and my Cooling Purge muſt be uſed, and they muſt take often of my Syrup for Con<g ref="char:EOLhyphen"/>ſumptions.</item>
+                     <item>IX. When they are afflicted with Stomach Sickneſs, they muſt be carry'd often abroad in the Air in a Coach; for nothing elſe will ſave their Lives.</item>
+                     <item>X. When they are ſeiz'd with a Fit of the Stone, for this is almoſt an inſeparable Companion from the Gout, they muſt proceed exactly as above directed, it being the beſt Means for Relief in a Fit of the Stone. But when they have a bloody Urine, they muſt come or ſend to my Houſe for Advice and Me<g ref="char:EOLhyphen"/>dicines; 'twill take up too much Time to give par<g ref="char:EOLhyphen"/>ticular Directions in this Caſe.</item>
+                     <pb n="17" facs="tcp:133300:9"/>
+                     <item> XI. Young and Old muſt uſe as much Exerciſe as poſſible; for they will not be able to obtain a tole<g ref="char:EOLhyphen"/>rable State of Health by any other Means; and 'tis great pity ſuch brave Conſtitutions ſhould be worn out, like Iron, by Ruſt, for want of Uſe. Moſt Things are preſerv'd by Motion; the Sun, by racing round the World, imparts its vivifying Rays to all Earthly Beings; the Moon, by keeping the Sea in perpetual Motion, makes clear and wholeſome; the Wind, by providentially ſtirring and fanning the Air, makes it pure and healthy; otherwiſe it would become putrid and peſtilential, and would poyſon Man and Beaſt, and the feather'd Inhabitants of the Air. Our Lungs and Heart, our Blood and Spirits are in continual Motion, from the Hour of our Birth, to the Hour of our Death; the Pores of our Body perform their Offices Night and Day; why then ſhould not the other Parts co-operate? In a word, moderate Exerciſe purifies the Blood, purges away ſuperfluous Humours, makes a good Habit of Body, enlivens Youth, cheers Old Age, revives the natu<g ref="char:EOLhyphen"/>ral Heat, ſtrengthens the Nerves and Joints, pro<g ref="char:EOLhyphen"/>cures an Appetite, make coarſe Country Food as pleaſant as the moſt coſtly Viands, and makes our Sleep ſweet. I have inſiſted long on theſe Things, to rouze Gouty Men from a ſupine and unactive Courſe of Life; for baneful <hi>Sloth</hi> breeds a Hu<g ref="char:EOLhyphen"/>mour in the Blood that is as venomous as <hi>Cold Aconite,</hi> and deſtroys more Men than <hi>high Feeding, hard Drink<g ref="char:EOLhyphen"/>ing,</hi> and <hi>Whoring,</hi> tho' they are all prime Miniſters of Fate: But Exerciſe is beſt perform'd in the open Air, and in the Sun, better than in the Shade; and Riding on Horſe-back is the beſt Exerciſe of all.</item>
+                  </list>
+               </p>
+               <p>And now I ſuppoſe I may reaſonably hope this Un<g ref="char:EOLhyphen"/>dertaking and theſe Medicines will meet with a favour<g ref="char:EOLhyphen"/>able Reception among ſuch as have at any time been ſeiz'd with any one of theſe violent Diſeaſes. If I may judge by my ſelf, and according to the Benefit I have often receiv'd by the Water for the Gout, in vio<g ref="char:EOLhyphen"/>lent
+<pb n="18" facs="tcp:133300:10"/> Fits of the Stone, having voided a great many Stones, and ſome very large, after taking this Water, as above directed, and moſt commonly in the Night or the next Morning after taking it: And having experi<g ref="char:EOLhyphen"/>mented the wonderful Vertue of this Water in my ſelf and others, I muſt render Thanks to Almighty God for the miraculous Deliverances I have receiv'd from the Uſe of it: For beſides the preſent and wonder<g ref="char:EOLhyphen"/>ful Relief I have often had from it in Fits of the Stone, I was once ſnatch'd from the Jaws of Death by the Uſe of it, upon the Gout ſtriking in upon my Stomach ſuddenly on a Journey in <hi>Suſſex;</hi> for being carried to an Houſe, and laid on a Bed, I took this, which, by good Providence, I had then by me; and in a ſhort time the Pain ceas'd, and I travell'd many Miles the next Day; and ever ſince, when I take a Journey, I carry this Medicine with me as a bleſſed <hi>Viaticum.</hi>
+               </p>
+            </div>
+         </div>
+         <div type="table_of_diseases_medicines_and_prices">
+            <p>
+               <table>
+                  <head>The <hi>INDEX</hi> of Diſeaſes and Medicines; with the <hi>Price</hi> of each.</head>
+                  <row>
+                     <cell role="label" cols="2">A.</cell>
+                     <cell role="label">s. d.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>AFter-Birth, to bring away,</hi>
+                     </cell>
+                     <cell>My Oyl to bring away the After-Birth,</cell>
+                     <cell>10</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>After-Pains,</hi>
+                     </cell>
+                     <cell>my Julep for After-Pains</cell>
+                     <cell>16</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Agues,</hi>
+                     </cell>
+                     <cell>my Electuary for Agues</cell>
+                     <cell>26</cell>
+                  </row>
+                  <row>
+                     <cell rows="4">
+                        <hi>Apoplexy,</hi>
+                     </cell>
+                     <cell>A Bliſter</cell>
+                     <cell>06</cell>
+                  </row>
+                  <row>
+                     <cell>my Cordial Drops, Ounce</cell>
+                     <cell>10</cell>
+                  </row>
+                  <row>
+                     <cell>my Tincture of Amber, Oun.</cell>
+                     <cell>10</cell>
+                  </row>
+                  <row>
+                     <cell>my Apoplectick Balſam, the Box</cell>
+                     <cell>26</cell>
+                  </row>
+                  <row>
+                     <cell rows="3">
+                        <hi>Appetite, to promote</hi>
+                     </cell>
+                     <cell>my Vomiting Pouder</cell>
+                     <cell>10</cell>
+                  </row>
+                  <row>
+                     <cell>my <hi>Elixir Proprietatis,</hi> Oun.</cell>
+                     <cell>10</cell>
+                  </row>
+                  <row>
+                     <cell>my Stomach Tincture, Oun.</cell>
+                     <cell>06</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Aſthma</hi>
+                     </cell>
+                     <cell>my Syrup for Conſumptions the Pint</cell>
+                     <cell>50</cell>
+                  </row>
+                  <pb n="19" facs="tcp:133300:10"/>
+                  <row>
+                     <cell role="label" cols="2">B.</cell>
+                     <cell role="label">s. d.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>BAck, weak</hi>
+                     </cell>
+                     <cell>my Plaiſter for the Back</cell>
+                     <cell>16</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Barrenneſs</hi>
+                     </cell>
+                     <cell>my Purging Elixir</cell>
+                     <cell>26</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Belching</hi>
+                     </cell>
+                     <cell>my Cordial Drops</cell>
+                     <cell>10</cell>
+                  </row>
+                  <row>
+                     <cell rows="2">
+                        <hi>Bleeding at Noſe</hi>
+                     </cell>
+                     <cell>my Water for Bleeding at the Noſe</cell>
+                     <cell>16</cell>
+                  </row>
+                  <row>
+                     <cell>my Conſerve of Sloes, Pot</cell>
+                     <cell>10</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Bruiſes</hi>
+                     </cell>
+                     <cell>my Tincture of Amber</cell>
+                     <cell>10</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Burns</hi>
+                     </cell>
+                     <cell>my Ointment for Burns</cell>
+                     <cell>10</cell>
+                  </row>
+                  <row>
+                     <cell role="label" cols="2">C.</cell>
+                     <cell role="label">s. d.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>CHildrens broken Bellies</hi>
+                     </cell>
+                     <cell>my Ointment for Rup<g ref="char:EOLhyphen"/>tures</cell>
+                     <cell>10</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Childrens Convulſions</hi>
+                     </cell>
+                     <cell>my Pouder for Childrens Convulſions, 12 Papers</cell>
+                     <cell>20</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Childrens Gripes</hi>
+                     </cell>
+                     <cell>my Oyl for Childrens Gripes</cell>
+                     <cell>16</cell>
+                  </row>
+                  <row>
+                     <cell rows="2">
+                        <hi>Childrens Coughs</hi>
+                     </cell>
+                     <cell>my Balſamick Syrup, 2 Oun.</cell>
+                     <cell>06</cell>
+                  </row>
+                  <row>
+                     <cell>my Ointment for Childrens Breaſts</cell>
+                     <cell>10</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Childrens Hectick Fe<g ref="char:EOLhyphen"/>vers</hi>
+                     </cell>
+                     <cell>my Ingredients for Purging-Beer</cell>
+                     <cell>10</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Childrens Fevers</hi>
+                     </cell>
+                     <cell>my Cordial Pouder for Fe<g ref="char:EOLhyphen"/>vers</cell>
+                     <cell>10</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Childrens Purge</hi>
+                     </cell>
+                     <cell>my Ingredients for Purging-Beer</cell>
+                     <cell>10</cell>
+                  </row>
+                  <row>
+                     <cell rows="3">
+                        <hi>Child-bed Purgations ſuppreſs'd</hi>
+                     </cell>
+                     <cell>my Electuary for Child-bed Purgations ſuppreſs'd</cell>
+                     <cell>26</cell>
+                  </row>
+                  <row>
+                     <cell>my Hyſterick Cordial</cell>
+                     <cell>26</cell>
+                  </row>
+                  <row>
+                     <cell>my Galbanum Plaiſter</cell>
+                     <cell>16</cell>
+                  </row>
+                  <row>
+                     <cell rows="2">
+                        <hi>Colick</hi>
+                     </cell>
+                     <cell>my Purging Elixir</cell>
+                     <cell>26</cell>
+                  </row>
+                  <row>
+                     <cell>my Water for the Gout</cell>
+                     <cell>26</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Colick, Hyſterick</hi>
+                     </cell>
+                     <cell>my Water for the Gout</cell>
+                     <cell>26</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Conſumption</hi>
+                     </cell>
+                     <cell>my Syrup for Conſumptions</cell>
+                     <cell>50</cell>
+                  </row>
+                  <row>
+                     <cell rows="2">
+                        <hi>Convulſions</hi>
+                     </cell>
+                     <cell>my Cordial Drops</cell>
+                     <cell>10</cell>
+                  </row>
+                  <row>
+                     <cell>my Tincture of Amber</cell>
+                     <cell>10</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Coſtiveneſs</hi>
+                     </cell>
+                     <cell>my Purging Elixir</cell>
+                     <cell>26</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Coughs</hi>
+                     </cell>
+                     <cell>my Balſamick Syrup</cell>
+                     <cell>06</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Coughs, tickling</hi>
+                     </cell>
+                     <cell>my Syrup of White Poppies</cell>
+                     <cell>06</cell>
+                  </row>
+                  <pb n="20" facs="tcp:133300:11"/>
+                  <row>
+                     <cell>
+                        <hi>Coughs, Conſumptive</hi>
+                     </cell>
+                     <cell>my Electuary for Conſump<g ref="char:EOLhyphen"/>tive Coughs</cell>
+                     <cell>16</cell>
+                  </row>
+                  <row>
+                     <cell rows="3">
+                        <hi>Courſes, immoderate</hi>
+                     </cell>
+                     <cell>my Electuary for a violent Flux of the Courſes</cell>
+                     <cell>26</cell>
+                  </row>
+                  <row>
+                     <cell>my Conſerve of Sloes</cell>
+                     <cell>06</cell>
+                  </row>
+                  <row>
+                     <cell>my Reſtorative Jelly</cell>
+                     <cell>20</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Courſes, ſtopt</hi>
+                     </cell>
+                     <cell>my Virgins Pouder, 12 Pap.</cell>
+                     <cell>30</cell>
+                  </row>
+                  <row>
+                     <cell role="label" cols="2">D.</cell>
+                     <cell role="label">s. d.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>DEafneſs</hi>
+                     </cell>
+                     <cell>my Mixture for Deafneſs</cell>
+                     <cell>16</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Delivery, to haſten</hi>
+                     </cell>
+                     <cell>my Drops to haſten Delive<g ref="char:EOLhyphen"/>very, the Ounce</cell>
+                     <cell>26</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Diabetes</hi>
+                     </cell>
+                     <cell>my Purging Elixir</cell>
+                     <cell>26</cell>
+                  </row>
+                  <row>
+                     <cell rows="2">
+                        <hi>Dropſie</hi>
+                     </cell>
+                     <cell>my Syrup of Buckthorn, 2 Ounces</cell>
+                     <cell>06</cell>
+                  </row>
+                  <row>
+                     <cell>my Purging Elixir</cell>
+                     <cell>26</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Dropſie of the Womb</hi>
+                     </cell>
+                     <cell>The ſame</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell role="label" cols="2">E.</cell>
+                     <cell role="label">s. d.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>EYes inflam'd</hi>
+                     </cell>
+                     <cell>my Eyc-Water, the Ounce</cell>
+                     <cell>06</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Eyes, Rheum in them</hi>
+                     </cell>
+                     <cell>my Eye-Water</cell>
+                     <cell>06</cell>
+                  </row>
+                  <row>
+                     <cell role="label" cols="2">F.</cell>
+                     <cell role="label">s. d.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>FAinting</hi>
+                     </cell>
+                     <cell>my Cordial Drops</cell>
+                     <cell>10</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Fever, malignant</hi>
+                     </cell>
+                     <cell>the Royal Antidote, Ounce</cell>
+                     <cell>06</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Fever, continual</hi>
+                     </cell>
+                     <cell>the ſame</cell>
+                     <cell>06</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Fever, intermitting</hi>
+                     </cell>
+                     <cell>my Electuary for Agues</cell>
+                     <cell>26</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Fever, Hectick</hi>
+                     </cell>
+                     <cell>the ſame</cell>
+                     <cell>06</cell>
+                  </row>
+                  <row>
+                     <cell rows="2">
+                        <hi>Flux, Bloody</hi>
+                     </cell>
+                     <cell>my Water for the Gout</cell>
+                     <cell>26</cell>
+                  </row>
+                  <row>
+                     <cell>my Conſerve of Sloes</cell>
+                     <cell>10</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Flux of Hemorrhoids</hi>
+                     </cell>
+                     <cell>the ſame</cell>
+                     <cell>10</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Fundament fallen</hi>
+                     </cell>
+                     <cell>my Ointment for Ruptures</cell>
+                     <cell>10</cell>
+                  </row>
+                  <row>
+                     <cell role="label" cols="2">G.</cell>
+                     <cell role="label">s. d.</cell>
+                  </row>
+                  <row>
+                     <cell rows="3">
+                        <hi>GIddineſs</hi>
+                     </cell>
+                     <cell>my Vomiting Pouder</cell>
+                     <cell>10</cell>
+                  </row>
+                  <row>
+                     <cell>my Cordial Drops</cell>
+                     <cell>10</cell>
+                  </row>
+                  <row>
+                     <cell>my Tincture of Amber</cell>
+                     <cell>10</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Gout, to prevent its ſtriking in</hi>
+                     </cell>
+                     <cell>my Electuary for the Gout</cell>
+                     <cell>50</cell>
+                  </row>
+                  <pb n="21" facs="tcp:133300:11"/>
+                  <row>
+                     <cell>
+                        <hi>Gout, ſtriken upon the Stomach</hi>
+                     </cell>
+                     <cell>my Water for the Gout</cell>
+                     <cell>26</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Gout ſtriken in upon the Bowels, with a Looſeneſs and Gripes</hi>
+                     </cell>
+                     <cell>my Sweating Bolus</cell>
+                     <cell>10</cell>
+                  </row>
+                  <row>
+                     <cell rows="2">
+                        <hi>Green-Sickneſs</hi>
+                     </cell>
+                     <cell>my bitter Tincture</cell>
+                     <cell>26</cell>
+                  </row>
+                  <row>
+                     <cell>my Virgins Pouder</cell>
+                     <cell>30</cell>
+                  </row>
+                  <row>
+                     <cell role="label" cols="2">H.</cell>
+                     <cell role="label">s. d.</cell>
+                  </row>
+                  <row>
+                     <cell rows="2">
+                        <hi>HEad-Ach</hi>
+                     </cell>
+                     <cell>A Bliſter</cell>
+                     <cell>06</cell>
+                  </row>
+                  <row>
+                     <cell>Tincture of Amber</cell>
+                     <cell>10</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Hoarſeneſs</hi>
+                     </cell>
+                     <cell>my Syrup for Conſumptions</cell>
+                     <cell>50</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Hick-up</hi>
+                     </cell>
+                     <cell>my Electuary for Agues</cell>
+                     <cell>26</cell>
+                  </row>
+                  <row>
+                     <cell rows="2">
+                        <hi>Hyſterick Diſeaſes</hi>
+                     </cell>
+                     <cell>my Tincture of <hi>Aſſa foetida</hi>
+                     </cell>
+                     <cell>10</cell>
+                  </row>
+                  <row>
+                     <cell>my Cordial Drops</cell>
+                     <cell>10</cell>
+                  </row>
+                  <row>
+                     <cell role="label" cols="2">J.</cell>
+                     <cell role="label">s. d.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>JAundice</hi>
+                     </cell>
+                     <cell>my excellent Pills for the Jaundice, the Box</cell>
+                     <cell>50</cell>
+                  </row>
+                  <row>
+                     <cell rows="2">
+                        <hi>Itch</hi>
+                     </cell>
+                     <cell>my Ointment for the Itch</cell>
+                     <cell>16</cell>
+                  </row>
+                  <row>
+                     <cell>my Water for the Itch</cell>
+                     <cell>16</cell>
+                  </row>
+                  <row>
+                     <cell role="label" cols="2">K.</cell>
+                     <cell role="label">s. d.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>KIng's Evil</hi>
+                     </cell>
+                     <cell>take my Advice</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Kidneys, the Stone in them</hi>
+                     </cell>
+                     <cell>my Gout-Water</cell>
+                     <cell>26</cell>
+                  </row>
+                  <row>
+                     <cell rows="2">
+                        <hi>Kidneys, Stoppage of Kidneys, foul</hi>
+                     </cell>
+                     <cell>my Purging Elixir</cell>
+                     <cell>26</cell>
+                  </row>
+                  <row>
+                     <cell>my Purging Elixir</cell>
+                     <cell>26</cell>
+                  </row>
+                  <row>
+                     <cell role="label" cols="2">L.</cell>
+                     <cell role="label">s. d.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>LAbour, hard</hi>
+                     </cell>
+                     <cell>my Drops to haſten Deli<g ref="char:EOLhyphen"/>very</cell>
+                     <cell>26</cell>
+                  </row>
+                  <row>
+                     <cell rows="3">
+                        <hi>Looſeneſs</hi>
+                     </cell>
+                     <cell>my Purging Elixir</cell>
+                     <cell>26</cell>
+                  </row>
+                  <row>
+                     <cell>my Water for the Gout</cell>
+                     <cell>26</cell>
+                  </row>
+                  <row>
+                     <cell>my Conſerve of Sloes</cell>
+                     <cell>10</cell>
+                  </row>
+                  <row>
+                     <cell role="label" cols="2">M.</cell>
+                     <cell role="label">s. d.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>MEaſles</hi>
+                     </cell>
+                     <cell>my Syrup of White Pop<g ref="char:EOLhyphen"/>pies, 2 Ounces</cell>
+                     <cell>06</cell>
+                  </row>
+                  <pb n="22" facs="tcp:133300:12"/>
+                  <row>
+                     <cell rows="3">
+                        <hi>Miſcarriage</hi>
+                     </cell>
+                     <cell>my Purging Elixir</cell>
+                     <cell>26</cell>
+                  </row>
+                  <row>
+                     <cell>my Powders to prevent Miſcarriage</cell>
+                     <cell>20</cell>
+                  </row>
+                  <row>
+                     <cell>my Water for the Gout</cell>
+                     <cell>26</cell>
+                  </row>
+                  <row>
+                     <cell rows="2">
+                        <hi>Mother, Fits</hi>
+                     </cell>
+                     <cell>my Tincture of <hi>Aſſa foetida</hi>
+                     </cell>
+                     <cell>10</cell>
+                  </row>
+                  <row>
+                     <cell>my Tincture of Amber</cell>
+                     <cell>10</cell>
+                  </row>
+                  <row>
+                     <cell role="label" cols="2">N.</cell>
+                     <cell role="label">s. d.</cell>
+                  </row>
+                  <row>
+                     <cell rows="2">
+                        <hi>NAuſcouſneſs</hi>
+                     </cell>
+                     <cell>my Purging Elixir</cell>
+                     <cell>26</cell>
+                  </row>
+                  <row>
+                     <cell>my Elixir Propietatis</cell>
+                     <cell>10</cell>
+                  </row>
+                  <row>
+                     <cell role="label" cols="2">P.</cell>
+                     <cell role="label">s. d.</cell>
+                  </row>
+                  <row>
+                     <cell rows="2">
+                        <hi>PAlpitation of the Heart</hi>
+                     </cell>
+                     <cell>my Cordial Drops</cell>
+                     <cell>10</cell>
+                  </row>
+                  <row>
+                     <cell>my Tincture of <hi>Aſſa foetida</hi>
+                     </cell>
+                     <cell>10</cell>
+                  </row>
+                  <row>
+                     <cell rows="2">
+                        <hi>Palſie</hi>
+                     </cell>
+                     <cell>my admirable Mixture for the Palſie.</cell>
+                     <cell>26</cell>
+                  </row>
+                  <row>
+                     <cell>my Tincture of Amber</cell>
+                     <cell>10</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Piles</hi>
+                     </cell>
+                     <cell>my Remedy for the Piles</cell>
+                     <cell>10</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Pleuriſie</hi>
+                     </cell>
+                     <cell>my Mixture for the Pleuriſie</cell>
+                     <cell>26</cell>
+                  </row>
+                  <row>
+                     <cell rows="2">
+                        <hi>Small-pox</hi>
+                     </cell>
+                     <cell>my Water for the Gout</cell>
+                     <cell>26</cell>
+                  </row>
+                  <row>
+                     <cell>my Syrup of White Poppics</cell>
+                     <cell>06</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Venereal Pox</hi>
+                     </cell>
+                     <cell>take my Advice</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell role="label" cols="2">R.</cell>
+                     <cell role="label">s. d.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>RHeumatiſm</hi>
+                     </cell>
+                     <cell>take my Advice</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell role="label" cols="2">S.</cell>
+                     <cell role="label">s. d.</cell>
+                  </row>
+                  <row>
+                     <cell rows="3">
+                        <hi>SCurvy</hi>
+                     </cell>
+                     <cell>my purging Elixir</cell>
+                     <cell>2<gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>my Spirit of Scurvy-graſs</cell>
+                     <cell>1<gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>my Conſerve of Hips</cell>
+                     <cell>1<gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Spitting of Blood</hi>
+                     </cell>
+                     <cell>my excellent Mixture for ſpitting of Blood</cell>
+                     <cell>2<gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell rows="2">
+                        <hi>Sores, old</hi>
+                     </cell>
+                     <cell>my Oyntment for old Sores</cell>
+                     <cell>1<gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>my <hi>Aethiop</hi>'s Mineral, the Ounce.</cell>
+                     <cell>1<gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell rows="2">
+                        <hi>Stomach Pains</hi>
+                     </cell>
+                     <cell>my purging Elixir</cell>
+                     <cell>2<gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>my Water for the Gout</cell>
+                     <cell>26</cell>
+                  </row>
+                  <pb n="23" facs="tcp:133300:12"/>
+                  <row>
+                     <cell role="label" cols="2">V.</cell>
+                     <cell role="label">s. d.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>VApours</hi>
+                     </cell>
+                     <cell>my excellent Julep for Va<g ref="char:EOLhyphen"/>pours</cell>
+                     <cell>16</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Vomiting, to ſtop</hi>
+                     </cell>
+                     <cell>my Julep to ſtop Vomiting</cell>
+                     <cell>16</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Vomiting, to procure</hi>
+                     </cell>
+                     <cell>my Vomiting Powder</cell>
+                     <cell>10</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Urine, bloody</hi>
+                     </cell>
+                     <cell>take my Advice</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Urine, its Stoppage</hi>
+                     </cell>
+                     <cell>my Decoction for the Stop<g ref="char:EOLhyphen"/>page of Urine</cell>
+                     <cell>30</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Urine, its Heat</hi>
+                     </cell>
+                     <cell>the ſame</cell>
+                     <cell>30</cell>
+                  </row>
+                  <row>
+                     <cell role="label" cols="2">W.</cell>
+                     <cell role="label">s. d.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>WHites</hi>
+                     </cell>
+                     <cell>take my Advice</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Womb, to cleanſe</hi>
+                     </cell>
+                     <cell>my Purging Elixir</cell>
+                     <cell>26</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Womb fallen</hi>
+                     </cell>
+                     <cell>take my Advice</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Womb, its Ulcer</hi>
+                     </cell>
+                     <cell>take my Advice</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Womb, cancerated</hi>
+                     </cell>
+                     <cell>take my Advice</cell>
+                     <cell>00</cell>
+                  </row>
+               </table>
+            </p>
+            <p>
+               <table>
+                  <head>The following Medicines ought to be kept in all Fami<g ref="char:EOLhyphen"/>lies, and by Maſters of Ships that don't carry a Sur<g ref="char:EOLhyphen"/>geon with them.</head>
+                  <row>
+                     <cell>MY Family Balſam, the Pot</cell>
+                     <cell>10</cell>
+                  </row>
+                  <row>
+                     <cell>My Oyntment for Burns and Scalds, the Pot</cell>
+                     <cell>10</cell>
+                  </row>
+                  <row>
+                     <cell>My excellent Oyntment for old Sores, the Pot</cell>
+                     <cell>10</cell>
+                  </row>
+                  <row>
+                     <cell>My Spirit of Scurvy-graſs, the Bottle</cell>
+                     <cell>10</cell>
+                  </row>
+                  <row>
+                     <cell>My Cordial-drops, the Ounce</cell>
+                     <cell>10</cell>
+                  </row>
+                  <row>
+                     <cell>My Water for the Gout, the Half-pint</cell>
+                     <cell>26</cell>
+                  </row>
+                  <row>
+                     <cell>My Sweating Bolus,</cell>
+                     <cell>10</cell>
+                  </row>
+                  <row>
+                     <cell>My Tincture of Saffron, the Ounce</cell>
+                     <cell>10</cell>
+                  </row>
+                  <row>
+                     <cell>My Purging Elixir, the Half-pint</cell>
+                     <cell>26</cell>
+                  </row>
+                  <row>
+                     <cell>My Tincture of Amber, the Ounce</cell>
+                     <cell>10</cell>
+                  </row>
+                  <row>
+                     <cell>My excellent Mixture for Spitting of Blood and a Pleuriſie,</cell>
+                     <cell>26</cell>
+                  </row>
+                  <row>
+                     <cell>My Bliſtering Plaiſter, the Ounce</cell>
+                     <cell>06</cell>
+                  </row>
+                  <row>
+                     <cell>My Water for Bleeding at Noſe,</cell>
+                     <cell>16</cell>
+                  </row>
+               </table>
+            </p>
+            <pb n="24" facs="tcp:133300:13"/>
+            <p> All my Medicines are Prepared by my Sons <hi>Joſeph</hi> and <hi>Whitlock Pechey,</hi> and my Ne<g ref="char:EOLhyphen"/>phew <hi>Francis Pechey,</hi> whom I have bred up; and are to be Sold at my Houſe in <hi>Bow-Lane, Cheapſide,</hi> the Corner of <hi>Robin-Hood's-Court;</hi> the Lower end of the Lane.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:133300:13"/>
+         </div>
+      </body>
+   </text>
+</TEI>
